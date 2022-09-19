@@ -63,7 +63,7 @@
 
 1. 地址：<http://vue.jeesite.com/>
 2. 账号：system
-3. 密码：admin
+3. 密码：admin || jeesite.com
 
 ## 学习准备
 
